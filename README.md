@@ -56,7 +56,7 @@ The research pays special attention to the relationship between citizens feeling
 ```bash
 urban-parks-wellbeing-mairena/
 ├── README.md
-├── figures/
+└── figures/
 
 ```
 
