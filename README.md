@@ -63,10 +63,7 @@ urban-parks-wellbeing-mairena/
 ├── scripts/
 ├── data/
 │   └── processed/
-├── outputs/
-├── report/
-├── renv/
-└── docs/
+
 ```
 
 ## 📄 Full Report
