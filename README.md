@@ -57,14 +57,8 @@ The research pays special attention to the relationship between citizens feeling
 urban-parks-wellbeing-mairena/
 ├── README.md
 ├── figures/
-├── scripts/
-├── data/
-│   └── processed/
 
 ```
-
-## 📄 Full Report
-Download the full Bachelor's Thesis summary (PDF) → [TFG_Parques_y_Bienestar_Mairena_2026.pdf](./report/TFG_Parques_y_Bienestar_Mairena_2026.pdf)
 
 ## 👤 Author
 
