@@ -19,17 +19,26 @@ The research pays special attention to the relationship between citizens feeling
 
 ## 📊 Visualisations
 
-- **Urban Quality Priorities (2026)** — Radial chart showing citizen demands for urban management
-  
-- **Main Motivations for Visiting Green Spaces** — Horizontal bar chart (multiple response)
+Perfecto, ya las tienes. Ahora en el README pon los nombres exactamente como aparecen ahí, con espacios y tildes incluidos:
+markdown## 📊 Visualisations
 
-- **Most Frequently Used Green Space** — Grid heatmap where each square represents 1% of respondents
+**Urban Quality Priorities (2026)**
+![Grafica 1](figures/Grafica%201)
 
-- **Institutional Coordination by Neighbourhood** — Diverging Likert heatmap by residential area
+**Main Motivations for Visiting Green Spaces**
+![Gráfica 2](figures/Gráfica%202)
 
-- **Feeling Heard vs Trust in Institutions** — Ridgeline density plot showing distribution of responses
+**Most Frequently Used Green Space**
+![GRÁFICA 4](figures/GRÁFICA%204.png)
 
-- **Co-occurrence of Codes** — Sankey diagram from ATLAS.ti showing relationships between key themes (Governance, Maintenance, Citizen Participation, Shade & Climate Adaptation, etc.)
+**Institutional Coordination by Neighbourhood**
+![GRÁFICA 6](figures/GRÁFICA%206.png)
+
+**Feeling Heard vs Trust in Institutions**
+![GRÁFICA 4-5 R](figures/GRÁFICA%204-5%20R.png)
+
+**Co-occurrence of Codes — Sankey Diagram**
+![GRÁFICA 7 R](figures/GRÁFICA%207%20R%20(2).png)
 
 ## 🔍 Main Findings
 
