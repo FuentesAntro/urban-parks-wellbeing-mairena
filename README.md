@@ -19,8 +19,6 @@ The research pays special attention to the relationship between citizens feeling
 
 ## 📊 Visualisations
 
-markdown## 📊 Visualisations
-
 **Urban Quality Priorities (2026)**
 ![Grafica 1](figures/Grafica%201)
 
