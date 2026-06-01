@@ -1,59 +1,57 @@
-# Urban Parks & Wellbeing in Mairena del Aljarafe
+🌿 Urban Parks & Citizen Wellbeing — Mairena del Aljarafe
+Mixed-methods analysis of citizen perception of green spaces and institutional coordination
+Mairena del Aljarafe · Seville Metropolitan Area · 2026
 
-**Citizen Perception Study (2026)** | Anthropology Meets Data Science
+📌 What is this project?
 
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![R](https://img.shields.io/badge/R-4.3+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+This project analyses how citizens perceive and use urban green spaces in Mairena del Aljarafe (n=225), combining quantitative survey data with qualitative insights from in-depth interviews. 
 
-## 📋 Project Overview
+The study focuses on motivations for park use, priorities for urban improvement, perceived institutional coordination between Ayuntamiento and Junta, and the relationship between feeling heard in participatory processes and trust in local institutions.
 
-This repository contains the **data analysis** of the survey *"Parques y Bienestar en Mairena del Aljarafe"* (n=225), conducted as part of my Bachelor's Thesis in Social and Cultural Anthropology with a strong data science component.
+🛠️ Methods & Tools
 
-The study explores how citizens perceive and use urban green spaces, their priorities for improvement, and the relationship between perceived institutional coordination and citizen participation.
+| Tool              | Use |
+|-------------------|-----|
+| ATLAS.ti 24       | Qualitative coding, co-occurrence analysis, Sankey diagrams |
+| R / RStudio       | Data cleaning, statistical analysis, advanced visualisations (ggplot2, ggsankey, patchwork) |
+| Mixed-methods     | Integration of survey data (Likert scales) with ethnographic material |
 
-### 🎯 Research Objectives
-- Identify main motivations for visiting urban parks
-- Analyze citizen priorities for urban management
-- Evaluate perceived institutional coordination (Ayuntamiento-Junta)
-- Explore the relationship between feeling heard and trust in institutions
+📊 Visualisations
 
-## 📊 Key Visualizations
+- **Urban Quality Priorities (2026)** — Radial chart of citizen demands
+- **Main Motivations for Visiting Green Spaces** — Horizontal bar chart
+- **Most Frequently Used Green Space** — Grid heatmap (1% = 1 respondent)
+- **Institutional Coordination by Neighbourhood** — Likert heatmap
+- **Feeling Heard vs Trust in Institutions** — Ridgeline / density plot
+- **Co-occurrence of Codes** — Sankey diagram (ATLAS.ti + R)
 
-### Urban Quality Priorities (2026)
-![Percepción de Calidad Urbana](images/GRÁFICA_6.png)
+🔍 Main Findings
 
-### Main Motivations for Park Visits
-![Motivos de visita](images/GRÁFICA_7_R.png)
+- **Socialisation (40%)**, **emotional wellbeing (38%)** and **sport & health (36%)** are the main reasons citizens visit urban parks.
+- **Maintenance and repairs (62%)** is by far the top priority for improvement, followed by shade & vegetation (33%) and cleanliness (25%).
+- More than **84%** of respondents consider institutional coordination between Ayuntamiento and Junta as important or very important.
+- Citizens who feel their opinion was taken into account in new projects show significantly higher trust in institutional coordination (median = 4 vs median = 3).
+- There is a clear territorial variation between neighbourhoods in the perception of institutional performance.
 
-### Most Used Green Spaces
-![Espacio verde más frecuentado](images/GRÁFICA_4.png)
-
-### Institutional Coordination & Participation
-![Coordinación institucional](images/GRÁFICA_4-5_R.png)
-
-## 🛠️ Methodology & Tools
-
-- **Software**: R (tidyverse, ggplot2, ggsankey, patchwork, etc.)
-- **Survey Platform**: Custom survey (Likert scales + multiple choice)
-- **Analysis**: Descriptive statistics, Likert visualization, Sankey diagrams, co-occurrence analysis (ATLAS.ti + R)
-- **Qualitative Integration**: Mixed-methods approach combining survey data with in-depth interviews
-
-## 📁 Repository Structure
+📁 Repository Structure
 
 ```bash
 urban-parks-wellbeing-mairena/
 ├── README.md
+├── figures/                  # All visualisations (R + ATLAS.ti)
+├── scripts/                  # R scripts (data cleaning, analysis, plots)
 ├── data/
-│   └── raw/              # (Not public - contains personal data)
-│   └── processed/
-├── scripts/
-│   ├── 01_data_cleaning.R
-│   ├── 02_descriptive_analysis.R
-│   ├── 03_visualizations.R
-│   └── 04_mixed_methods.R
-├── images/               # All plots used in thesis
+│   └── processed/            # Anonymised datasets
 ├── outputs/
-├── docs/
-│   └── thesis_summary.pdf
-└── renv/                 # Reproducible environment
+├── report/                   # Full TFG / thesis summary (PDF)
+└── renv/                     # Reproducible environment
+
+📄 Full Report
+Download the full analysis report (PDF)
+
+👤 Author
+Antonio Fuentes Moreno
+Anthropology Graduate · Social Data Analyst
+MSc Social Data Science — University of Salamanca
+📍 Seville, Spain
+LinkedIn
