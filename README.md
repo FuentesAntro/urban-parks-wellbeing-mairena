@@ -19,7 +19,6 @@ The research pays special attention to the relationship between citizens feeling
 
 ## 📊 Visualisations
 
-Perfecto, ya las tienes. Ahora en el README pon los nombres exactamente como aparecen ahí, con espacios y tildes incluidos:
 markdown## 📊 Visualisations
 
 **Urban Quality Priorities (2026)**
