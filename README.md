@@ -8,7 +8,7 @@ This project presents a comprehensive mixed-methods study on how residents of Ma
 
 The research pays special attention to the relationship between citizens feeling heard in new park projects and their confidence in local governance — a key dimension in urban anthropology and participatory planning. By integrating quantitative survey data with qualitative coding, this work offers both statistical robustness and contextual depth to understand socio-environmental dynamics in a growing metropolitan municipality.
 
-🛠️ Methods & Tools
+## 🛠️ Methods & Tools
 
 | Tool              | Use |
 |-------------------|-----|
@@ -17,7 +17,7 @@ The research pays special attention to the relationship between citizens feeling
 | Survey Design     | Structured questionnaire with Likert scales, multiple-choice and open questions (n=225) |
 | Mixed-methods     | Integration of quantitative survey results with ethnographic insights for deeper interpretation |
 
-📊 Visualisations
+## 📊 Visualisations
 
 - **Urban Quality Priorities (2026)** — Radial chart showing citizen demands for urban management
   
@@ -31,7 +31,7 @@ The research pays special attention to the relationship between citizens feeling
 
 - **Co-occurrence of Codes** — Sankey diagram from ATLAS.ti showing relationships between key themes (Governance, Maintenance, Citizen Participation, Shade & Climate Adaptation, etc.)
 
-🔍 Main Findings
+## 🔍 Main Findings
 
 * Socialisation (40%), emotional wellbeing (38%) and sport & health (36%) are the primary motivations for citizens visiting urban parks, highlighting their central role in community life and personal wellbeing.
 
@@ -45,7 +45,7 @@ The research pays special attention to the relationship between citizens feeling
 
 * Qualitative analysis shows strong interconnections between problems of maintenance, lack of shade/vegetation and institutional governance issues.
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 ```bash
 urban-parks-wellbeing-mairena/
@@ -60,7 +60,7 @@ urban-parks-wellbeing-mairena/
 └── docs/
 ```
 
-📄 Full Report
+## 📄 Full Report
 Download the full Bachelor's Thesis summary (PDF) → [TFG_Parques_y_Bienestar_Mairena_2026.pdf](./report/TFG_Parques_y_Bienestar_Mairena_2026.pdf)
 
 ## 👤 Author
