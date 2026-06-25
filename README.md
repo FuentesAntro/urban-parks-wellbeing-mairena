@@ -19,6 +19,7 @@ The research pays special attention to the relationship between citizens feeling
 
 ## 📊 Visualisations
 
+
 **Institutional Coordination Importance**
 ![Grafica 1](figures/GRÁFICA%201.png)
 
