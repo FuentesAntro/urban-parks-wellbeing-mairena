@@ -54,7 +54,19 @@ The research pays special attention to the relationship between citizens feeling
 ```bash
 urban-parks-wellbeing-mairena/
 ├── README.md
+├── LICENSE
+├── code/
+│   ├── citizen_participation_analysis.R
+│   ├── institutional_coordination_analysis.R
+│   ├── most_frequent_parks_waffle.R
+│   ├── participation_vs_trust_ridges.R
+│   └── urban_quality_priorities.R
 └── figures/
+    ├── GRÁFICA 1.png
+    ├── GRÁFICA 2.png
+    ├── GRÁFICA 4-5 R.png
+    ├── GRÁFICA 4.png
+    └── GRÁFICA 6.png
 
 ```
 
