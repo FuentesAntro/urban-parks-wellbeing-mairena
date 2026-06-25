@@ -1,7 +1,3 @@
-# =====================================================
-# GRÁFICO 1 - COORDINACIÓN INTERINSTITUCIONAL
-# TFG Antropología Urbana - Estilo Profesional
-# =====================================================
 library(ggplot2)
 library(dplyr)
 
