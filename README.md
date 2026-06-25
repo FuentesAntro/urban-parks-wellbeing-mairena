@@ -19,11 +19,11 @@ The research pays special attention to the relationship between citizens feeling
 
 ## 📊 Visualisations
 
-**Urban Quality Priorities (2026)**
-![Grafica 1](figures/Grafica%201)
+**Institutional Coordination Importance**
+![Grafica 1](figures/GRÁFICA%201.png)
 
-**Main Motivations for Visiting Green Spaces**
-![Gráfica 2](figures/Gráfica%202)
+**Citizen Participation Perception**
+![Gráfica 2](figures/GRÁFICA%202.png)
 
 **Most Frequently Used Green Space**
 ![GRÁFICA 4](figures/GRÁFICA%204.png)
@@ -34,8 +34,6 @@ The research pays special attention to the relationship between citizens feeling
 **Feeling Heard vs Trust in Institutions**
 ![GRÁFICA 4-5 R](figures/GRÁFICA%204-5%20R.png)
 
-**Co-occurrence of Codes — Sankey Diagram**
-![GRÁFICA 7 R](figures/GRÁFICA%207%20R%20(2).png)
 
 ## 🔍 Main Findings
 
